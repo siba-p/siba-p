@@ -1,4 +1,12 @@
-- 👋 Hi, I’m a PhD student in https://sites.google.com/prod/view/divyanayar/publications?authuser=0 group, at @IIT Delhi
+- ## 👋 Hi, I’m a PhD student in [@DN Lab](https://sites.google.com/prod/view/divyanayar/publications?authuser=0) group, at [@IIT Delhi](https://home.iitd.ac.in)🇮🇳
+## :hourglass_flowing_sand: Ongoing works
+- Programmable Nanomaterials, self-assembly in bio-functionalized nanomaterials for intracellular applications.
+- MD Simulation, Macromolecular crowding effects, Statistitical thermodynamics, Solvation theories.
+- Developing new Functionalized nanomaterials for self-assembly applications.
+- Machine-learning based prediction of biomolecules–surface interaction and inverse design of nano surfaces.
+- Developing parallelized in-house analysis codes using    OpenMP/MPI and making them CUDA-enabled
+## :white_check_mark: Completed works
+- 
 - - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
