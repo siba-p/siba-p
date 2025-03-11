@@ -10,8 +10,8 @@
 --------------
 🗞️ Works
 - [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-3588-2870)
-- [Google Scholar](url)
--  
+- [Google Scholar](https://scholar.google.com/citations?user=shHwPf8AAAAJ&hl=en)
+- ## 
 <!---
 siba-p/siba-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
